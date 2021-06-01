@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/811b8763-02d1-430d-b684-ddc342f68c9d/deploy-status)](https://app.netlify.com/sites/flux-support/deploys)
 
 This is a quickstart repo for Orchid to get you up and running as soon as possible. The only system dependency 
 necessary to run Orchid is a valid Java 8 JDK and git. 
